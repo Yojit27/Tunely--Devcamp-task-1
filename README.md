@@ -7,7 +7,7 @@ A static, multi-page music website built with **HTML5 and CSS3 only** (no JavaSc
 ## Live Demo
 
 <!-- Replace with your GitHub Pages link -->
-https://your-username.github.io/your-repo-name/
+https://yojit27.github.io/Tunely--Devcamp-task-1/
 
 ## Pages
 
@@ -58,4 +58,4 @@ No setup needed. Download or clone the repository and open `index.html` in any b
 
 ## Author
 
-Your Name - DevCamp 2.0
+Yojit Chawla - DevCamp 2.0
